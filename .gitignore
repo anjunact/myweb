@@ -1,0 +1,7 @@
+.idea
+WebContent/
+.project
+myweb.iml
+target
+bin
+.settings/
